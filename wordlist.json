@@ -1,0 +1,21 @@
+{
+    "wordlist": [
+        {
+            "spanish": "la palabra",
+            "german": "Das Wort"
+        },
+        {
+            "spanish": "el hombre",
+            "german": "Der Mann"
+        },
+        {
+            "spanish": "la mujer",
+            "german": "Die Frau"
+        },
+        {
+            "spanish": "querer",
+            "german": "wollen; möchten; mögen [Verb]"
+        }
+
+    ]
+}
