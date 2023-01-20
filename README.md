@@ -15,5 +15,5 @@ F.e. to learn català :grin: you can change<br>
 `language1 = rnd_word['spanish']` into `language1 = rnd_word['catala']`<br>
 and adjust the keys and words in the `wordlist.json` file accordingly.<br>
 
-That's all, folks. Saludos y Pozdrawiam :relaxed:
+Saludos y Pozdrawiam :relaxed:<br><br>
 <img src="demo.png">
