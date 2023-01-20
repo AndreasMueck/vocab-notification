@@ -13,7 +13,7 @@ Feel free to add new words in `wordlist.json`<br>
 ## Other languages
 F.e. to learn català :grin: you can change<br>
 `language1 = rnd_word['spanish']` into `language1 = rnd_word['catala']`<br>
-and adjust the keys in the `wordlist.json` file accordingly.<br>
+and adjust the keys and words in the `wordlist.json` file accordingly.<br>
 
 That's it, folks :-)
 <img src="demo.png">
