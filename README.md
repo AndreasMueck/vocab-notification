@@ -7,7 +7,7 @@ A pop-up appears every few seconds with a random Spanish word.<br>
 2. Run: `python3 vocab.pyw`
 
 ## Configuration
-Look into the source code to change the timer<br>
+Look into the source code `vocab.pyw` to change the timer<br>
 Feel free to add new words in `wordlist.json`<br>
 
 ## Other languages
