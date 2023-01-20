@@ -14,11 +14,11 @@ def random_word():
 
 while(True):
     rnd_word = random_word()
-    spanish_word = rnd_word['spanish']
-    german_word = rnd_word['german']
+    language1 = rnd_word['spanish']
+    language2 = rnd_word['german']
     line_break = "\n"
     notification_title = "Spanische Vokabeln"
-    words = spanish_word+line_break+german_word
+    words = language1+line_break+language2
 
     time.sleep(20)
     notification.notify(
