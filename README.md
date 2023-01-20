@@ -11,7 +11,7 @@ Look into the source code to change the timer<br>
 Feel free to add new words in `wordlist.json`<br>
 
 ## Other languages
-F.e. to learn català [;p] you can change<br>
+F.e. to learn català :grin: you can change<br>
 `language1 = rnd_word['spanish']` into `language1 = rnd_word['catala']`<br>
 and adjust the keys in the `wordlist.json` file accordingly.<br>
 
